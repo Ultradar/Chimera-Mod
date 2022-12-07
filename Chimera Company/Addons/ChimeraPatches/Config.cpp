@@ -43,11 +43,18 @@ class CfgUnitInsignia
 		texture = "\ChimeraPatches\icon\MilanPatch.paa";
 		textureVehicle = "";
 	};
-		class GalleuPatch
+	class GalleuPatch
 	{
 		displayName = "Galleu's Patch";
 		author = "Galleu";
 		texture = "\ChimeraPatches\icon\GalleuPatch.paa";
+		textureVehicle = "";
+	};
+	class DeadeyePatch
+	{
+		displayName = "Deadeye's Patch";
+		author = "Deadeye";
+		texture = "\ChimeraPatches\icon\DeadeyePatch.paa";
 		textureVehicle = "";
 	};
 	
