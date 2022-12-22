@@ -38,7 +38,7 @@ class CfgUnitInsignia
 	};
 	class MilanPatch
 	{
-		displayName = "Stargazer";
+		displayName = "Omaticaya";
 		author = "Milan";
 		texture = "\ChimeraPatches\icon\MilanPatch.paa";
 		textureVehicle = "";
