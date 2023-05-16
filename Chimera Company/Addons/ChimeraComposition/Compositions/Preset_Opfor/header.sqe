@@ -1,0 +1,13 @@
+version=54;
+name="Preset_Opfor";
+author="Ultradar.";
+category="ChimeraSpawn";
+requiredAddons[]=
+{
+	"A3_Weapons_F_Ammoboxes",
+	"ace_cargo",
+	"A3_Structures_F_Civ_InfoBoards",
+	"A3_Characters_F",
+	"A3_Modules_F_Curator_Curator",
+	"A3_Modules_F_Multiplayer"
+};
